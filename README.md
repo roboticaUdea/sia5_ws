@@ -24,3 +24,4 @@ Comandos para ejecucion
     Gazebo 
     roslaunch practica sia_dhand_gazebo.launch
     rosrun practica prepare_pick_place.py
+# sia5_ws
