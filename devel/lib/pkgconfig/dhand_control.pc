@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: dhand_control
+Description: Description of dhand_control
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs

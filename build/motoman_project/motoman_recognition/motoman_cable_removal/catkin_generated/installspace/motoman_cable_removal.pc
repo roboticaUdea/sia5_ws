@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: motoman_cable_removal
+Description: Description of motoman_cable_removal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

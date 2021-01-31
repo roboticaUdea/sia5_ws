@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: motoman_sia5_moveit_plugins
+Description: Description of motoman_sia5_moveit_plugins
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core pluginlib roscpp tf_conversions

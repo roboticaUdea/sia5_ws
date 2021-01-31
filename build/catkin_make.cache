@@ -1,0 +1,2 @@
+dhand_ros_pkg/dhand_control:dhand_ros_pkg/dhand_description:dhand_ros_pkg/dhand_driver:dhand_ros_pkg/dhand_gazebo:dhand_ros_pkg/dhand_msgs:dhand_ros_pkg/dhand_ros_pkg:motoman_project/motoman_calib:motoman_project/motoman_control:motoman_project/motoman_demo:motoman_project/motoman_demo_msgs:motoman_project/motoman_description:motoman_project/motoman_gazebo:motoman_project/motoman_gripper:practica
+-DCATKIN_DEVEL_PREFIX=/home/robotica/sia5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/robotica/sia5_ws/install -G Unix Makefiles

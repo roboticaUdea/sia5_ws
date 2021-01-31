@@ -1,0 +1,2 @@
+set(motoman_viz_msgs_MESSAGE_FILES "/home/robotica/sia5_ws/src/motoman_project/motoman_viz_msgs/msg/EuclideanLinkTrajectory.msg;/home/robotica/sia5_ws/src/motoman_project/motoman_viz_msgs/msg/EuclideanLinkTrajectoryPoint.msg;/home/robotica/sia5_ws/src/motoman_project/motoman_viz_msgs/msg/BoundingBox.msg;/home/robotica/sia5_ws/src/motoman_project/motoman_viz_msgs/msg/BoundingBoxArray.msg")
+set(motoman_viz_msgs_SERVICE_FILES "")

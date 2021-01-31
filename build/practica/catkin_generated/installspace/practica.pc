@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: practica
+Description: Description of practica
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: dhand_description
+Description: Description of dhand_description
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ldhand_description
+Requires: 

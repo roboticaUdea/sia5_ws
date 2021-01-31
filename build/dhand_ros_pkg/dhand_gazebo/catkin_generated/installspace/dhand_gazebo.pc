@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: dhand_gazebo
+Description: Description of dhand_gazebo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -ldhand_gazebo
+Requires: 

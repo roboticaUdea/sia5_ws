@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: motoman_perception
+Description: Description of motoman_perception
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

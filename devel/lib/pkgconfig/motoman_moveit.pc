@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: motoman_moveit
+Description: Description of motoman_moveit
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp moveit_msgs moveit_core moveit_ros_planning_interface

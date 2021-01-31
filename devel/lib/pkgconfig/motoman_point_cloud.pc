@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: motoman_point_cloud
+Description: Description of motoman_point_cloud
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs std_msgs pcl_ros pcl_msgs tf tf_conversions

@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: motoman_viz
+Description: Description of motoman_viz
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

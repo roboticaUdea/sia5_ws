@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: dhand_driver
+Description: Description of dhand_driver
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib -ldhand_driver
+Requires: 

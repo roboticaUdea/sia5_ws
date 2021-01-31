@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: dhand_msgs
+Description: Description of dhand_msgs
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldhand_msgs
+Requires: std_msgs message_runtime

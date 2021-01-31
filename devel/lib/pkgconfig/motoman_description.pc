@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/devel
+
+Name: motoman_description
+Description: Description of motoman_description
+Version: 1.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

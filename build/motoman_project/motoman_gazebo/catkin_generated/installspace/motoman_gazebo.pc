@@ -1,0 +1,8 @@
+prefix=/home/robotica/sia5_ws/install
+
+Name: motoman_gazebo
+Description: Description of motoman_gazebo
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: motoman_description motoman_point_cloud
