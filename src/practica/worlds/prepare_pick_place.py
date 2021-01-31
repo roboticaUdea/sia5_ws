@@ -139,9 +139,6 @@ arm_joint_positions  = [0.0, -0.62, 0, 0, 0.0, 1.0, 0.0]
 dhand_joint_names = ["dhand_finger_base_left_joint", "dhand_finger_base_right_joint", "dhand_finger_middle_left_joint", 
                     "dhand_finger_middle_middle_joint", "dhand_finger_middle_right_joint", "dhand_finger_top_left_joint", 
                     "dhand_finger_top_middle_joint", "dhand_finger_top_right_joint"]
-#gripper_joint_names = ["r_gripper_finger_joint", "l_gripper_finger_joint"]
-#gripper_joint_positions = [0.1, 0.1]
-
 
 
 if __name__ == "__main__":
