@@ -1,7 +1,7 @@
 
 # Sia5 - Proyecto Robotica UDEA 2021 
 
-![SIA5](.image/SIA5.png)
+![SIA5](image/SIA5.png)
 
 Commands for execution:
 
