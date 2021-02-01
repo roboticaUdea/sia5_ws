@@ -1,9 +1,11 @@
 
 # Sia5 - Proyecto Robotica UDEA 2021 
 
+![SIA5](image/SIA5.png)
+
 Commands for execution:
 
-- Without robotic arm: 
+- _Without robotic arm:_
 Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker.
 
     Rviz
@@ -17,7 +19,7 @@ Previously, line 37 of the file /practica/src/helpers.py must be uncommented and
         roslaunch practica sia5_gazebo.launch
         rosrun practica prepare_pick_place.py
 
-- With robotic arm: 
+- _With robotic arm:_
 Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker.
 
     Rviz
