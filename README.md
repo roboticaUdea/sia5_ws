@@ -4,7 +4,7 @@
 Commands for execution:
 
 - Without robotic arm: 
-_Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker.
+_Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker._
 
     Rviz
 
@@ -18,7 +18,7 @@ _Previously, line 37 of the file /practica/src/helpers.py must be uncommented an
         rosrun practica prepare_pick_place.py
 
 - With robotic arm: 
-_Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker.
+_Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker._
 
     Rviz
 
@@ -45,7 +45,7 @@ For the creation of the project the following commands were used:
     cd ~/sia5_ws/
     rosdep install --from-paths src --ignore-src -r -y
 
-In order for the project to compile correctly, the folders were removed motoman_moveit, motoman_moveit_config, motoman_perception, motoman_recognition, motoman_rviz_plugins, motoman_sia5_moveit_plugins, motoman_viz and motoman_viz_msgs.
+_In order for the project to compile correctly, the folders were removed motoman_moveit, motoman_moveit_config, motoman_perception, motoman_recognition, motoman_rviz_plugins, motoman_sia5_moveit_plugins, motoman_viz and motoman_viz_msgs._
 
     catkin_make
 
