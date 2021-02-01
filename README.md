@@ -3,7 +3,7 @@
 
 Commands for execution:
 
--Without robotic arm
+- Without robotic arm.
 Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker.
 
     Rviz
@@ -17,7 +17,7 @@ Previously, line 37 of the file /practica/src/helpers.py must be uncommented and
         roslaunch practica sia5_gazebo.launch
         rosrun practica prepare_pick_place.py
 
--With robotic arm
+- With robotic arm.
 Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker.
 
     Rviz
@@ -32,7 +32,7 @@ Previously, line 36 of the file /practica/src/helpers.py must be uncommented and
         rosrun practica prepare_pick_place.py
 
 
-#Note:
+# Note:
 For the creation of the project the following commands were used:
 
     mkdir -p ~/sia5_ws/src
