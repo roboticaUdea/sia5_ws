@@ -4,7 +4,7 @@
 Commands for execution:
 
 - Without robotic arm: 
-Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker.
+_Previously, line 37 of the file /practica/src/helpers.py must be uncommented and line 36 must be commented for the correct display of the marker.
 
     Rviz
 
@@ -18,7 +18,7 @@ Previously, line 37 of the file /practica/src/helpers.py must be uncommented and
         rosrun practica prepare_pick_place.py
 
 - With robotic arm: 
-Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker.
+_Previously, line 36 of the file /practica/src/helpers.py must be uncommented and line 37 must be commented for the correct display of the marker.
 
     Rviz
 
